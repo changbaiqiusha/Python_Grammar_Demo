@@ -1,5 +1,5 @@
-# Python_Grammar_Demo
-记录 python 语法的 example
+# Python_Grammar_Example
+记录 Python 语法的 example
 
 同时学习使用 GitHub 和 Git
 
